@@ -1,2 +1,3 @@
 # hello-world
-storing ideas &amp; resources
+storing ideas \& resources
+I drink tea.
